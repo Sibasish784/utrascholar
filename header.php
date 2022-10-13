@@ -13,8 +13,8 @@
 							<i class="fas fa-lock"></i> <strong>Sign In</strong></a>
 					</span>
 					<span>
-						<!--<a href="scholarshipadmin/membership_signup.php">
-							<i class="far fa-user"></i> <strong>Register</strong></a>-->
+						<a href="scholarshipadmin/membership_signup.php">
+							<i class="far fa-user"></i> <strong>Register</strong></a>
 					</span>
 				</div>
 				<div class="col-md-4 log-icons text-right">
